@@ -1,11 +1,8 @@
 ![Banner Image](./banner.png "Banner Image")
 
-<h1 align="center">Hi <a href="https://mind4machine.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Jonathan</h1>
-<h2 align="left">
-  Top 1% of Upwork AI Software Engineering Talent
-</h2>
-<h2 align="left">
-  5+ years of experience in AI Software design, development and maintenance.
+<h1 align="center">Hi, I'm Jonathan</h1>
+<h2 align="center">
+  Top 1% of Upwork AI Talent | 5+ years of experience 
 </h2>
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
