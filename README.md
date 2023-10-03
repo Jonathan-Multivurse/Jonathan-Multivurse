@@ -4,9 +4,9 @@
 <h2 align="left">
   Top 1% of Upwork AI Software Engineering Talent
 </h2>
-<h3 align="left">
+<h2 align="left">
   5+ years of experience in AI Software design, development and maintenance.
-</h3>
+</h2>
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
   
