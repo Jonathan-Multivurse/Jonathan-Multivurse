@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi <a href="https://mind4machine.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Jonathan</h1>
-<h3 align="center">I'm Senior Machine Learning and AI Engineer. I'm interested in designing & building fascinating stuff.</h3>
+<h3 align="center">
+  Jonathan is a top 1% Upwork AI Software engineer / Technical Project Manager with 5+ years of experience in AI Software design, development and maintenance.
+</h3>
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
   
