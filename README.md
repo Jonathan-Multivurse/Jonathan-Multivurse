@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Jonathan</h1>
 <h2 align="center">
-  Top 1% of Upwork AI Talent | 5+ years of experience 
+  Top 1% of Upwork AI Talent | 5+ years of experience | 31 Projects | 3,944 Hours
 </h2>
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
