@@ -1,4 +1,4 @@
-
+![Banner Image](./banner.png "Banner Image")
 
 <h1 align="center">Hi <a href="https://mind4machine.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Jonathan</h1>
 <h2 align="left">
