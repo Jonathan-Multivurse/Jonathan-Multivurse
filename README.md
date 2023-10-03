@@ -3,23 +3,19 @@
 <h1 align="center">Hi <a href="https://mind4machine.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Jonathan</h1>
 <h3 align="center">I'm Senior Machine Learning and AI Engineer. I'm interested in designing & building fascinating stuff.</h3>
 
-🔭 Currently Working On: LLM based consumer and enterprise software applications, pushing the boundaries of innovation and usability.
+- 🔭 I’m currently working on LLM based consumer and enterprise software applications.
+  
+- 📫 Follow me on Twitter: [mind4machine](https://twitter.com/mind4machine)
+  
+- ⌨️ Learn more about me: [here](https://bughht.github.io/aboutme/)
 
-🛠 Skills & Expertise:
-
-Computer Vision: Profound expertise in object detection, image classification, and face recognition with frameworks like OpenCV and Dlib.
-Natural Language & Speech Processing: Significant accomplishments in text classification, sentiment analysis, machine translation, speech recognition, and sound classification using premier libraries like NLTK, SpaCy, transformers, librosa, and pyaudio.
-Front-end Development: Mastery in crafting responsive web apps with React, Flutter, Typescript, and Dart.
-Backend Development: Extensive know-how in designing robust server solutions using Node.js, FastAPI, GraphQL, supported by both relational & NoSQL DBs.
-Platform & DevOps: Comprehensive proficiency in CI/CD implementations with Jenkins, Travis CI, GitLab, containerization through Docker, orchestration via Kubernetes, and IaC with Terraform. Fluent in cloud management across AWS, GCP, and Azure.
-Advanced Autonomous Bots: A visionary in the realm of AI-driven robotics and automation, creating the next-gen solutions.
-🏆 Recognition: Proudly representing the top 1% of Upwork talent, exemplifying dedication and prowess in modern software development, deep learning neural networks, and avant-garde AI development.
-
-🤝 Partnerships: Fortunate to have joined forces with a diverse range of startups and innovation centers worldwide, consistently delivering value and pioneering solutions.
-
-📫 Connect With Me: Twitter
-
-⌨️ Delve Deeper into My Story: here.
+- 🛠️ **Skills & Expertise:**
+    - **Computer Vision:** Deep expertise in object detection, image classification, face recognition (OpenCV, Dlib).
+    - **Natural Language & Speech Processing:** Text classification, sentiment analysis, machine translation, speech recognition, sound classification (NLTK, SpaCy, transformers, librosa, pyaudio).
+    - **Front-end Development:** Responsive web apps (React, Flutter, Typescript, Dart).
+    - **Backend Development:** Robust server solutions (Node.js, FastAPI, GraphQL), proficient with relational & NoSQL DBs.
+    - **Platform & DevOps:** CI/CD (Jenkins, Travis CI, GitLab), containerization (Docker), orchestration (Kubernetes), IaC (Terraform), cloud platforms (AWS, GCP, Azure).
+    - **Advanced Autonomous Bots:** Exploring AI-driven robotics and automation.
 
 + 🛠️ Languages and Tools
 
