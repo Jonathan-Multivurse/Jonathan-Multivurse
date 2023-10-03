@@ -9,7 +9,7 @@
   
 - 📫 Follow me on Twitter: [mind4machine](https://twitter.com/mind4machine)
   
-- ⌨️ Learn more about me: [here](https://bughht.github.io/aboutme/)
+- ⌨️ Learn more about me: [here](https://www.upwork.com/freelancers/randomguy)
 
 - 🛠️ **Skills & Expertise:**
     - **Computer Vision:** Deep expertise in object detection, image classification, face recognition (OpenCV, Dlib).
