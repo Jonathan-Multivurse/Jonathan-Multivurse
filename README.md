@@ -1,8 +1,11 @@
 
 
 <h1 align="center">Hi <a href="https://mind4machine.com"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I'm Jonathan</h1>
-<h3 align="center">
-  Jonathan is a top 1% Upwork AI Software engineer / Technical Project Manager with 5+ years of experience in AI Software design, development and maintenance.
+<h5 align="left">
+  Jonathan is a top 1% Upwork AI Software Engineer / Technical Project Manager
+</h3>
+<h5 align="left">
+  5+ years of experience in AI Software design, development and maintenance.
 </h3>
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
