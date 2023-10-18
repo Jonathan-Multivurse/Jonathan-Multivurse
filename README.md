@@ -41,38 +41,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 <br />
 
 **Favorite Tools & Frameworks:**
-<div style="display: flex; flex-direction: row; align-items: center;">
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
-</div>
-<div style="margin: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
-</div>
-</div>
+
 
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
@@ -81,7 +50,6 @@ Having partnered with numerous startups and innovation centers across the globe,
 | Typescript | Tenserflow | Llama2 | ChromaDB | AutoGen | AWS | Linux | Git | Docker |
 | Javascript | Keras | Numpy | Palm2 | Fass | LangChain | Azure | GraphQL | VueJS |
 
-</div>
 
 
 
