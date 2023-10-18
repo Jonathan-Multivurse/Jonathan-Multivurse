@@ -1,7 +1,7 @@
 ![Banner Image](./banner.png "Banner Image")
 
-#### **🤖 Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps 🤖**
-#### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
+**🤖 Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps 🤖**
+**📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 ---
@@ -44,15 +44,14 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 
 | Category                 | Tools & Frameworks |
-|:------------------------:|:-------------------|
-| Deep Learning            | CNNs, RNNs, LSTMs, GANs, Reinforcement Learning, Transformer Architectures |
-| Computer Vision          | OpenCV, Dlib, TensorFlow, PyTorch |
-| Language Processing      | GPT-4, GPT-3, BERT, RoBERTa, T5, LaMDA, SpaCy, NLTK, FastText |
-| Audio Processing         | TensorFlow, PyTorch, Keras |
-| Front-end Development    | React, Flutter, TypeScript, Dart |
-| Backend Development      | Node.js, FastAPI, GraphQL, Docker, AWS, GCP, Azure |
-| Database Management      | MongoDB, Neo4j, Redis |
-| DevOps / MLOps           | Docker, Kubernetes, Airflow, AWS, GCP, Azure, Prometheus, Grafana, ELK Stack |
+|:-------------------------|:-------------------|
+| Deep Learning            | CNNs, RNNs, LSTMs, GANs, Reinforcement Learning, Transformer Architectures, TensorFlow, PyTorch, Keras |
+| Computer Vision          | OpenCV, Dlib, Viso Suite, CUDA, MATLAB, SimpleCV, BoofCV |
+| Large Language Models    | GPT-4, Llama2, Falcon 180B, Palm2, Claude2, Cohere, Bard |
+| Speech & Audio           | SpeechRecognition, PyAudio, Deepgram, Librosa, Pysptk, Parselmouth, Audacity, Speechbrain, Torchaudio |
+| Front-end Development    | React, React-Native, Next.js, Flutter, TypeScript, Dart |
+| Backend Development      | Node.js, FastAPI, GraphQL, Docker, MongoDB, DynamoDB, CloudFirestore, Neo4j, Redis |
+| DevOps / MLOps           | Git, Github, CloudBuild, AppEngine, CloudRun, CodePipeline, Docker, Kubernetes, AWS, EC2, GCP, Azure,|
 
 
 
