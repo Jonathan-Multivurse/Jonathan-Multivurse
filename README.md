@@ -1,23 +1,16 @@
 ![Banner Image](./banner.png "Banner Image")
 
-<h1 align="center">Hi, I'm Jonathan</h1>
-<h2 align="center">
-  Top 1% of Upwork AI Talent | 5+ years of experience | 31 Projects | 3,944 Hours
-</h2>
+**`Senior Machine Learning Engineer • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
+<br/>
+<br/>
+![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
+
 
 - 🔭 I’m currently working on LLM based consumer and enterprise software applications.
   
 - 📫 Follow me on Twitter: [mind4machine](https://twitter.com/mind4machine)
   
 - ⌨️ Learn more about me: [here](https://www.upwork.com/freelancers/randomguy)
-
-- 🛠️ **Skills & Expertise:**
-    - **Computer Vision:** Deep expertise in object detection, image classification, face recognition (OpenCV, Dlib).
-    - **Natural Language & Speech Processing:** Text classification, sentiment analysis, machine translation, speech recognition, sound classification (NLTK, SpaCy, transformers, librosa, pyaudio).
-    - **Front-end Development:** Responsive web apps (React, Flutter, Typescript, Dart).
-    - **Backend Development:** Robust server solutions (Node.js, FastAPI, GraphQL), proficient with relational & NoSQL DBs.
-    - **Platform & DevOps:** CI/CD (Jenkins, Travis CI, GitLab), containerization (Docker), orchestration (Kubernetes), IaC (Terraform), cloud platforms (AWS, GCP, Azure).
-    - **Advanced Autonomous Bots:** Exploring AI-driven robotics and automation.
 
 ### About Me
 
