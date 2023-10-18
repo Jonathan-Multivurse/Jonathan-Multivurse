@@ -7,6 +7,27 @@
 
 **About Me**
 
+I represent the top 1% of Upwork AI talent, with expertise in modern software development , deep learning neural networks and modern AI development. 
+Having partnered with numerous startups and innovation centers across the globe, I possess the skills and insights to elevate your AI product or service strategy.
+
+My expertise includes:
+------
+
+⭐ Computer Vision: Developing and optimizing algorithms for object detection, image classification, and face recognition using frameworks like OpenCV and Dlib.
+
+⭐ Natural Language Processing: Building and fine-tuning language models, text classification, sentiment analysis, and machine translation using libraries like NLTK, SpaCy, and transformers.
+
+⭐ Audio Processing: Designing and implementing algorithms for speech recognition, sound classification, and audio generation using libraries like librosa and pyaudio.
+
+⭐ Front-end Development: Creating responsive and dynamic web applications using technologies like React, Flutter, Typescript, Dart to ensure user-friendly and performant interfaces.
+
+⭐ Backend Development: Designing robust and scalable server-side solutions using languages and frameworks such as Node.js, FastAPI and GraphQL with experience in both relational and NoSQL DBs
+
+⭐ Platform (DevOps): Implementing and managing CI/CD pipelines using tools like Jenkins, Travis CI, and GitLab. Proficient in containerization with Docker, orchestration with Kubernetes, and infrastructure as code with Terraform. Skilled in cloud platforms like AWS, GCP, and Azure to deploy, monitor, and scale applications.
+
+------
+
+
 🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.<br/>
 
 🧠 **Experience**: 5+ years in designing, training, and deploying scalable ML systems.<br/>
@@ -31,7 +52,6 @@
 -----
 
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="TypeScript" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 
