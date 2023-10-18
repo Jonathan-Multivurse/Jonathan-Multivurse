@@ -45,16 +45,14 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 | Category                 | Tools & Frameworks |
 |:------------------------:|:-------------------|
-| **Machine Learning**     | TensorFlow, PyTorch, Keras, Scikit-learn, FastText, BERT, RoBERTa, T5, GPT-4, LaMDA, PaLM 2 |
-| **Computer Vision**      | OpenCV, Dlib, TensorFlow, PyTorch |
-| **Language Processing**  | GPT-4, GPT-3, BERT, RoBERTa, T5, LaMDA, SpaCy, NLTK, FastText |
-| **Audio Processing**     | TensorFlow, PyTorch, Keras |
-| **Front-end Development**| React, Flutter, TypeScript, Dart |
-| **Backend Development**  | Node.js, FastAPI, GraphQL, Docker, AWS, GCP, Azure |
-| **Database Management**  | MongoDB, Neo4j, Redis |
-| **MLOps**                | Docker, Kubernetes, Airflow, AWS, GCP, Azure, Prometheus, Grafana, ELK Stack |
-| **Low-code Platforms**   | Chainlit, LLMStack, FlowiseAI |
-| **AI Development Aids**  | GitHub Copilot, Amazon’s CodeWhisperer, MDN’s AI Help, Anthropic’s Claude, Falcon, SeamlessM4T, OpenAI's API |
+| Deep Learning            | CNNs, RNNs, LSTMs, GANs, Reinforcement Learning, Transformer Architectures |
+| Computer Vision          | OpenCV, Dlib, TensorFlow, PyTorch |
+| Language Processing      | GPT-4, GPT-3, BERT, RoBERTa, T5, LaMDA, SpaCy, NLTK, FastText |
+| Audio Processing         | TensorFlow, PyTorch, Keras |
+| Front-end Development    | React, Flutter, TypeScript, Dart |
+| Backend Development      | Node.js, FastAPI, GraphQL, Docker, AWS, GCP, Azure |
+| Database Management      | MongoDB, Neo4j, Redis |
+| DevOps / MLOps           | Docker, Kubernetes, Airflow, AWS, GCP, Azure, Prometheus, Grafana, ELK Stack |
 
 
 
