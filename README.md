@@ -10,15 +10,25 @@
 **About Me**
 
 🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.<br/>
+
 🧠 **Experience**: 5+ years in designing, training, and deploying scalable ML systems.<br/>
+
 🔥 **Drive**: Deeply invested in the evolution and intricacies of ML engineering.<br/>
+
 💡 **Thought Leadership**: Regular insights on the entire ML engineering process.<br/>
+
 💰 **Curiosity**: Exploring blockchain and investment trends.<br/>
+
 👨‍🍳 **Personal**: Passion for self-growth, psychology, culinary arts, outdoors, and dogs 🐕.<br/>
 
 ------
 
-👉 Check out [**The Full Stack 7-Steps MLOps Framework**](https://github.com/iusztinpaul/energy-forecasting) **hands-on free course**, where you will learn how to design, train, serve, and monitor an end-to-end ML batch system ~ *source code + 2.5 hours of reading & video materials*.
+🚀 **Looking for an Expert Freelancer?** 🚀
+
+- 🟢 [**Upwork Profile**](https://www.upwork.com/fl/yourusername) - Dive into my extensive project history and reviews.
+- 🔵 [**Fiverr Profile**](https://www.fiverr.com/yourusername) - Explore my services, packages, and client feedback.
+
+💼 Let's collaborate and bring your project to life!
 
 -----
 
@@ -35,16 +45,32 @@
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 
+<!-- Additional icons -->
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
+<img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+<img align="left" alt="VueJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
 <br/>
 <br/>
 <br/>
 
 **Key Skills & Tools**
-| Python | TensorFlow | PyTorch | Keras | Scikit-learn | Jupyter |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| OpenCV | SpaCy | NLTK | FastText | BERT | GPT-3 |
-| AWS | GCP AI | Azure ML | Docker | Kubernetes | Airflow |
-| Kafka | Prometheus | Grafana | ELK | MongoDB | Neo4j | Redis |
+
+| Python | TensorFlow | PyTorch | Keras | Scikit-learn | Jupyter | SpaCy | NLTK | FastText |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| BERT | GPT-3 | AWS | GCP AI | Azure ML | Docker | Kubernetes | Airflow | Prometheus |
+| Grafana | ELK | MongoDB | Neo4j | Redis | OpenCV | Linux | Git | Docker |
+| FastAPI | PostgreSQL | Numpy | Pandas | Pytorch | TensorFlow2 | NodeJS | GraphQL | VueJS |
+
 
 **Expertise & Interests**
 
