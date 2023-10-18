@@ -55,9 +55,10 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
 <br />
+<br /><br />
 
 
-| Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
+| Languages | Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Python | PyTorch | AWS | GPT-4 | Pinecone | AutoGPT | GCP | Airflow | Prometheus |
 | Typescript | Tenserflow | Llama2 | ChromaDB | AutoGen | AWS | Linux | Git | Docker |
