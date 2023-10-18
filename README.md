@@ -1,6 +1,6 @@
 ![Banner Image](./banner.png "Banner Image")
 
-## 🌟 **Senior Machine Learning Engineer - AI Agents | Vision, Language + Speech & Sound** 🌟
+🌟 **Machine Learning Engineer | Vision, Language + Speech & Sound** 🌟
 
 🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.
 
