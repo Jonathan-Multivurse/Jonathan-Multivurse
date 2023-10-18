@@ -55,7 +55,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
 <br />
----
+
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -64,5 +64,5 @@ Having partnered with numerous startups and innovation centers across the globe,
 | Javascript | Keras | Numpy | Palm2 | Fass | LangChain | Azure | GraphQL | VueJS |
 
 <br />
----
+
 
