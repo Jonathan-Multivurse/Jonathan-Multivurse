@@ -57,8 +57,6 @@ Having partnered with numerous startups and innovation centers across the globe,
 <div></div>
 <!-- Space Maker -->
 
-**Tools & Frameworks:**
-
 <!-- Space Maker -->
 <div></div>
 <!-- Space Maker -->
