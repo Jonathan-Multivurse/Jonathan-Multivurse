@@ -47,11 +47,11 @@ Having partnered with numerous startups and innovation centers across the globe,
 |:-------------------------|:-------------------|
 | Deep Learning            | CNNs, RNNs, LSTMs, GANs, Reinforcement Learning, Transformer Architectures, TensorFlow, PyTorch, Keras |
 | Computer Vision          | OpenCV, Dlib, Viso Suite, CUDA, MATLAB, SimpleCV, BoofCV |
-| Large Language Models    | GPT-4, Llama2, Falcon 180B, Palm2, Claude2, Cohere, Bard |
+| Large Language Models    | GPT-4, Llama2, Palm2, Claude2, Falcon 180B, Langchain, Pinecone, Autonomous Agents, AutoGen|
 | Speech & Audio           | SpeechRecognition, PyAudio, Deepgram, Librosa, Pysptk, Parselmouth, Audacity, Speechbrain, Torchaudio |
 | Front-end Development    | React, React-Native, Next.js, Flutter, TypeScript, Dart |
 | Backend Development      | Node.js, FastAPI, GraphQL, Docker, MongoDB, DynamoDB, CloudFirestore, Neo4j, Redis |
-| DevOps / MLOps           | Git, Github, CloudBuild, AppEngine, CloudRun, CodePipeline, Docker, Kubernetes, AWS, EC2, GCP, Azure,|
+| DevOps / MLOps           | HuggingFace, Git, Github, CloudBuild, AppEngine, CloudRun, CodePipeline, Docker, Kubernetes, AWS, EC2, GCP, Azure,|
 
 
 
