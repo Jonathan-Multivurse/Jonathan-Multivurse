@@ -4,16 +4,23 @@
 #### **📝`Contractor: Helping startups engineer production-ready ML/AI systems.`📝**
 <br/>
 <br/>
+
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-<br/>
 **About Me**
-🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.
-🧠 **Experience**: 5+ years in designing, training, and deploying scalable ML systems.
-🔥 **Drive**: Deeply invested in the evolution and intricacies of ML engineering.
-💡 **Thought Leadership**: Regular insights on the entire ML engineering process.
-💰 **Curiosity**: Exploring blockchain and investment trends.
-👨‍🍳 **Personal**: Passion for self-growth, psychology, culinary arts, outdoors, and dogs 🐕.
+
+🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.<br/>
+🧠 **Experience**: 5+ years in designing, training, and deploying scalable ML systems.<br/>
+🔥 **Drive**: Deeply invested in the evolution and intricacies of ML engineering.<br/>
+💡 **Thought Leadership**: Regular insights on the entire ML engineering process.<br/>
+💰 **Curiosity**: Exploring blockchain and investment trends.<br/>
+👨‍🍳 **Personal**: Passion for self-growth, psychology, culinary arts, outdoors, and dogs 🐕.<br/>
+
+------
+
+👉 Check out [**The Full Stack 7-Steps MLOps Framework**](https://github.com/iusztinpaul/energy-forecasting) **hands-on free course**, where you will learn how to design, train, serve, and monitor an end-to-end ML batch system ~ *source code + 2.5 hours of reading & video materials*.
+
+-----
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
