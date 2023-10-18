@@ -34,9 +34,9 @@ Having partnered with numerous startups and innovation centers across the globe,
 **Looking for an Expert Freelancer?**
 
 
-🟢 [**Upwork Profile**]([https://www.upwork.com/fl/yourusername](https://www.upwork.com/freelancers/randomguy)) Dive into my extensive project history and reviews.
+🟢 [**Upwork Profile**](https://www.upwork.com/fl/yourusername](https://www.upwork.com/freelancers/randomguy)) Dive into my extensive project history and reviews.
 
-🟢 [**Fiverr Profile**]([https://www.fiverr.com/yourusername](https://www.fiverr.com/jonathan2ai)) Explore my services, packages, and client feedback.
+🟢 [**Fiverr Profile**](https://www.fiverr.com/yourusername](https://www.fiverr.com/jonathan2ai)) Explore my services, packages, and client feedback.
 
 <br />
 
