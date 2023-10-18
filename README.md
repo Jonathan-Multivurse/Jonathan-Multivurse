@@ -8,17 +8,13 @@
 
 **About Me**
 
-<br /><br />
-
 I represent the top 1% of Upwork AI talent, with expertise in modern software development, deep learning neural networks, and modern AI development. 
 Having partnered with numerous startups and innovation centers across the globe, I possess the skills and insights to elevate your AI product or service strategy.
 
-<br /><br />
+<br />
 
 **My Expertise Includes:**
 
-
-<br /><br />
 
 ⭐ Computer Vision: Developing and optimizing algorithms for object detection, image classification, and face recognition using frameworks like OpenCV and Dlib.
   
@@ -32,18 +28,17 @@ Having partnered with numerous startups and innovation centers across the globe,
   
 ⭐ Platform|DevOps: Implementing and managing CI/CD pipelines. Proficient in containerization with Docker, and Skilled in cloud platforms like AWS, GCP, and Azure.
 
-<br /><br />
+<br />
 
 
 **Looking for an Expert Freelancer?**
-
 
 
 🟢 [**Upwork Profile**](https://www.upwork.com/fl/yourusername) Dive into my extensive project history and reviews.
 
 🟢 [**Fiverr Profile**](https://www.fiverr.com/yourusername) Explore my services, packages, and client feedback.
 
-<br /><br />
+<br />
 
 **Tools & Frameworks:**
 
@@ -59,7 +54,8 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
-<br /><br />
+<br />
+---
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -67,5 +63,6 @@ Having partnered with numerous startups and innovation centers across the globe,
 | Typescript | Tenserflow | Llama2 | ChromaDB | AutoGen | AWS | Linux | Git | Docker |
 | Javascript | Keras | Numpy | Palm2 | Fass | LangChain | Azure | GraphQL | VueJS |
 
+<br />
 ---
 
