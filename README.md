@@ -44,18 +44,12 @@
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-
-<!-- Additional icons -->
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
 <img align="left" alt="Scikit-learn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="VueJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
@@ -65,11 +59,43 @@
 
 **Key Skills & Tools**
 
-| Python | TensorFlow | PyTorch | Keras | Scikit-learn | Jupyter | SpaCy | NLTK | FastText |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| BERT | GPT-3 | AWS | GCP AI | Azure ML | Docker | Kubernetes | Airflow | Prometheus |
-| Grafana | ELK | MongoDB | Neo4j | Redis | OpenCV | Linux | Git | Docker |
-| FastAPI | PostgreSQL | Numpy | Pandas | Pytorch | TensorFlow2 | NodeJS | GraphQL | VueJS |
+| Category                      | Python | TensorFlow | PyTorch | Keras | Scikit-learn | Jupyter | SpaCy | NLTK |
+|:-----------------------------:|:------:|:----------:|:-------:|:-----:|:------------:|:-------:|:-----:|:----:|
+| Deep Learning Frameworks      |        |     ✓      |    ✓    |   ✓   |              |         |       |      |
+| Machine Learning Libraries    |    ✓   |            |         |       |       ✓       |         |       |      |
+| Natural Language Processing   |    ✓   |            |         |       |              |         |   ✓    |  ✓   |
+| Cloud Platforms               |        |            |         |       |              |         |       |      |
+| Containerization & Orchestration |    |            |         |       |              |         |       |      |
+| Data Pipelines and Workflow Management | ✓ |        |         |       |              |         |       |      |
+| Monitoring and Visualization  |        |            |         |       |              |         |       |      |
+| Databases                     |        |            |         |       |              |         |       |      |
+| Data Processing and Analysis  |    ✓   |            |         |       |              |    ✓    |       |      |
+| IDEs and Notebooks            |        |            |         |       |              |    ✓    |       |      |
+| Computer Vision               |        |            |         |       |              |         |       |      |
+| API Development               |    ✓   |            |         |       |              |         |       |      |
+| Version Control               |        |            |         |       |              |         |       |      |
+| Operating Systems             |        |            |         |       |              |         |       |      |
+| Web Development               |        |            |         |       |              |         |       |      |
+| Others                        |        |            |         |       |              |         |       |      |
+
+| Category                      | FastText | BERT | GPT-3 | AWS | GCP AI | Azure ML | Docker | Kubernetes |
+|:-----------------------------:|:--------:|:----:|:-----:|:---:|:-------:|:--------:|:------:|:----------:|
+| Deep Learning Frameworks      |          |  ✓   |   ✓   |     |         |          |        |            |
+| Machine Learning Libraries    |    ✓     |      |       |     |         |          |        |            |
+| Natural Language Processing   |    ✓     |  ✓   |   ✓   |     |         |          |        |            |
+| Cloud Platforms               |          |      |       | ✓   |    ✓    |    ✓     |        |            |
+| Containerization & Orchestration |      |      |       |     |         |          |   ✓    |     ✓      |
+| Data Pipelines and Workflow Management | |    |       |     |         |          |        |            |
+| Monitoring and Visualization  |          |      |       |     |         |          |        |            |
+| Databases                     |          |      |       |     |         |          |        |            |
+| Data Processing and Analysis  |          |      |       |     |         |          |        |            |
+| IDEs and Notebooks            |          |      |       |     |         |          |        |            |
+| Computer Vision               |          |      |       |     |         |          |        |            |
+| API Development               |          |      |       |     |         |          |        |            |
+| Version Control               |          |      |       |     |         |          |        |            |
+| Operating Systems             |          |      |       |     |         |          |        |            |
+| Web Development               |          |      |       |     |         |          |        |            |
+| Others
 
 
 **Expertise & Interests**
