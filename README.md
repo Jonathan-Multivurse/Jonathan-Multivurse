@@ -2,7 +2,7 @@
 
 #### **🤖`Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps`🤖**
 #### **📝`Contractor: Helping startups engineer production-ready ML/AI systems.`📝**
-<br/>
+
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 **About Me**
@@ -74,25 +74,6 @@
 | Web Development               |        |            |         |       |              |         |       |      |
 | Others                        |        |            |         |       |              |         |       |      |
 
-| Category                      | FastText | BERT | GPT-3 | AWS | GCP AI | Azure ML | Docker | Kubernetes |
-|:-----------------------------:|:--------:|:----:|:-----:|:---:|:-------:|:--------:|:------:|:----------:|
-| Deep Learning Frameworks      |          |  ✓   |   ✓   |     |         |          |        |            |
-| Machine Learning Libraries    |    ✓     |      |       |     |         |          |        |            |
-| Natural Language Processing   |    ✓     |  ✓   |   ✓   |     |         |          |        |            |
-| Cloud Platforms               |          |      |       | ✓   |    ✓    |    ✓     |        |            |
-| Containerization & Orchestration |      |      |       |     |         |          |   ✓    |     ✓      |
-| Data Pipelines and Workflow Management | |    |       |     |         |          |        |            |
-| Monitoring and Visualization  |          |      |       |     |         |          |        |            |
-| Databases                     |          |      |       |     |         |          |        |            |
-| Data Processing and Analysis  |          |      |       |     |         |          |        |            |
-| IDEs and Notebooks            |          |      |       |     |         |          |        |            |
-| Computer Vision               |          |      |       |     |         |          |        |            |
-| API Development               |          |      |       |     |         |          |        |            |
-| Version Control               |          |      |       |     |         |          |        |            |
-| Operating Systems             |          |      |       |     |         |          |        |            |
-| Web Development               |          |      |       |     |         |          |        |            |
-| Others
-
 
 **Expertise & Interests**
 
@@ -114,10 +95,10 @@
 Elevate your projects with end-to-end ML expertise. [**Contact me!**](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaboration)
 
 ### 🔗 **Connect**
-[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/pauliusztin)  
-[![Medium](images/medium.png)](https://pauliusztin.medium.com/)  
-[![Substack](images/substack.png)](https://pauliusztin.substack.com/)  
-[![Twitter](images/twitter.png)](https://twitter.com/iusztinpaul)
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 
 💌 **Newsletter**: Subscribe to [**Decoding ML**](https://pauliusztin.substack.com/) for fresh insights!
 
