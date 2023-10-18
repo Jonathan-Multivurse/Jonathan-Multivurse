@@ -49,7 +49,35 @@
 
 <br/>
 <br/>
-<br/>
+
+|       | Programming Languages | Deep Learning Frameworks | Machine Learning Libraries | Natural Language Processing Libraries |
+|:-----:|:---------------------:|:------------------------:|:--------------------------:|:-------------------------------------:|
+|   1   | Python                | TensorFlow               | Scikit-learn               | NLTK                                  |
+|   2   | R                     | PyTorch                  | XGBoost                    | SpaCy                                 |
+|   3   | Java                  | Keras                    | LightGBM                   | GPT-3                                 |
+|   4   | Scala                 | TensorFlow2              |                             | BERT                                  |
+|   5   | Julia                 |                          |                             | FastText                              |
+
+|       | Cloud Platforms       | Containerization & Orchestration | Data Pipelines and Workflow Management | Monitoring and Visualization |
+|:-----:|:---------------------:|:---------------------------------:|:---------------------------------------:|:------------------------------:|
+|   1   | AWS                   | Docker                            | Airflow                                | Prometheus                    |
+|   2   | GCP AI                | Kubernetes                        |                                        | Grafana                       |
+|   3   | Azure ML              |                                   |                                        | ELK                           |
+
+|       | Databases             | Data Processing and Analysis | IDEs and Notebooks | Computer Vision |
+|:-----:|:---------------------:|:---------------------------:|:------------------:|:---------------:|
+|   1   | MongoDB               | Pandas                      | Jupyter Notebook   | OpenCV          |
+|   2   | PostgreSQL           | Numpy                       | RStudio            |                 |
+|   3   | Neo4j                 |                              |                    |                 |
+|   4   | Redis                 |                              |                    |                 |
+
+|       | API Development       | Version Control | Operating Systems | Web Development |
+|:-----:|:---------------------:|:---------------:|:-----------------:|:---------------:|
+|   1   | FastAPI               | Git             | Linux             | NodeJS          |
+|   2   |                       |                 |                   | VueJS           |
+|   3   |                       |                 |                   | GraphQL         |
+|   4   |                       |                 |                   | ...             |
+
 
 **Key Skills & Tools**
 
@@ -88,11 +116,6 @@
   - **Vision**: Image tasks (Classification, Detection, Segmentation) with CNNs.
   - **Language**: NLP tasks with BERT, GPT-3, Transformers.
   - **Audio**: ASR, Text-to-Speech, Sound Classification.
-
-**Collaborate**  
-Elevate your projects with end-to-end Machine Learning expertise.
-
-![Banner Image](./banner.png "Banner Image")
 
 ### 🔗 **Connect**
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
