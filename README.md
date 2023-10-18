@@ -8,11 +8,16 @@
 
 **About Me**
 
+
 I represent the top 1% of Upwork AI talent, with expertise in modern software development, deep learning neural networks, and modern AI development. 
 Having partnered with numerous startups and innovation centers across the globe, I possess the skills and insights to elevate your AI product or service strategy.
 
 
+
 **My Expertise Includes:**
+
+
+
 
 ⭐ Computer Vision: Developing and optimizing algorithms for object detection, image classification, and face recognition using frameworks like OpenCV and Dlib.
   
@@ -28,15 +33,20 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 
 
+
 **Looking for an Expert Freelancer?**
 
+
+
 🟢 [**Upwork Profile**](https://www.upwork.com/fl/yourusername) Dive into my extensive project history and reviews.
+
 🟢 [**Fiverr Profile**](https://www.fiverr.com/yourusername) Explore my services, packages, and client feedback.
 
 
 
 **Tools & Frameworks:**
 
+
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
@@ -49,7 +59,6 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
 
-**Machine Learning & AI Tools**
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
