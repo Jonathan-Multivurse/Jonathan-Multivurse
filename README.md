@@ -1,6 +1,7 @@
 ![Banner Image](./banner.png "Banner Image")
 
-**🌟`Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`🌟**
+**🤖`Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps`🤖**
+**📝`Contractor: Helping startups engineer production-ready ML/AI systems.`📝**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
