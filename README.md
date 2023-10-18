@@ -45,8 +45,6 @@
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="VueJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <br/>
@@ -92,15 +90,15 @@
   - **Audio**: ASR, Text-to-Speech, Sound Classification.
 
 **Collaborate**  
-Elevate your projects with end-to-end ML expertise. [**Contact me!**](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaboration)
+Elevate your projects with end-to-end Machine Learning expertise.
+
+![Banner Image](./banner.png "Banner Image")
 
 ### 🔗 **Connect**
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-
-💌 **Newsletter**: Subscribe to [**Decoding ML**](https://pauliusztin.substack.com/) for fresh insights!
 
 ### 🙏 **Support My Endeavors**
 Appreciate my work? Show it by:
