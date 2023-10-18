@@ -8,16 +8,17 @@
 
 **About Me**
 
+<br /><br />
 
 I represent the top 1% of Upwork AI talent, with expertise in modern software development, deep learning neural networks, and modern AI development. 
 Having partnered with numerous startups and innovation centers across the globe, I possess the skills and insights to elevate your AI product or service strategy.
 
-
+<br /><br />
 
 **My Expertise Includes:**
 
 
-
+<br /><br />
 
 ⭐ Computer Vision: Developing and optimizing algorithms for object detection, image classification, and face recognition using frameworks like OpenCV and Dlib.
   
@@ -31,7 +32,7 @@ Having partnered with numerous startups and innovation centers across the globe,
   
 ⭐ Platform|DevOps: Implementing and managing CI/CD pipelines. Proficient in containerization with Docker, and Skilled in cloud platforms like AWS, GCP, and Azure.
 
-
+<br /><br />
 
 
 **Looking for an Expert Freelancer?**
@@ -42,7 +43,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 🟢 [**Fiverr Profile**](https://www.fiverr.com/yourusername) Explore my services, packages, and client feedback.
 
-
+<br /><br />
 
 **Tools & Frameworks:**
 
@@ -58,7 +59,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
-
+<br /><br />
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
