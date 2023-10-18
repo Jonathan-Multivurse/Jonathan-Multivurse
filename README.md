@@ -1,12 +1,15 @@
 ![Banner Image](./banner.png "Banner Image")
 
 **🤖`Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps`🤖**
+<br/>
 **📝`Contractor: Helping startups engineer production-ready ML/AI systems.`📝**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
-
-
+<br/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
+<br/>
 **About Me**
 🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.
 🧠 **Experience**: 5+ years in designing, training, and deploying scalable ML systems.
@@ -16,20 +19,16 @@
 👨‍🍳 **Personal**: Passion for self-growth, psychology, culinary arts, outdoors, and dogs 🐕.
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 
 <br/>
