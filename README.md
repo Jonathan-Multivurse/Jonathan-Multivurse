@@ -40,7 +40,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 <br />
 
-**Favorites:**
+**Favorite Tools & Frameworks:**
 
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
@@ -53,15 +53,10 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
-<!-- Space Maker -->
-<div></div>
-<!-- Space Maker -->
+----
+----
 
-<!-- Space Maker -->
-<div></div>
-<!-- Space Maker -->
 
-| Languages | Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Python | PyTorch | AWS | GPT-4 | Pinecone | AutoGPT | GCP | Airflow | Prometheus |
 | Typescript | Tenserflow | Llama2 | ChromaDB | AutoGen | AWS | Linux | Git | Docker |
