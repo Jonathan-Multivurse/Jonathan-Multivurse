@@ -43,19 +43,36 @@ Having partnered with numerous startups and innovation centers across the globe,
 **Favorite Tools & Frameworks:**
 
 <div style="margin: 10px;">
-
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
-![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
 </div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="30px" />
+</div>
+<div style="margin: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="Pytorch" height="30px" />
+</div>
+
 
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
