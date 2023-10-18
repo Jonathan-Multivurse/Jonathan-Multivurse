@@ -1,12 +1,11 @@
 ![Banner Image](./banner.png "Banner Image")
 
-**`Senior Machine Learning Engineer • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
+**`Hi, Jonathan here 👋 Senior Machine Learning Engineer • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 
-- 🔭 I’m currently working on LLM based consumer and enterprise software applications.
   
 - 📫 Follow me on Twitter: [mind4machine](https://twitter.com/mind4machine)
   
