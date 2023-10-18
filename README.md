@@ -1,7 +1,7 @@
 ![Banner Image](./banner.png "Banner Image")
 
-**🤖 Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps 🤖**
-**📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
+#### **🤖 Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps 🤖**
+#### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 ---
@@ -26,7 +26,7 @@ Having partnered with numerous startups and innovation centers across the globe,
   
 ⭐ Backend Development: Designing robust and scalable server-side solutions using languages and frameworks such as Node.js, FastAPI and GraphQL with experience in both relational and NoSQL DBs.
   
-⭐ Platform|DevOps: Implementing and managing CI/CD pipelines. Proficient in containerization with Docker, and Skilled in cloud platforms like AWS, GCP, and Azure.
+⭐ Platform | DevOps: Implementing and managing CI/CD pipelines. Proficient in containerization with Docker, and Skilled in cloud platforms like AWS, GCP, and Azure.
 
 <br />
 
