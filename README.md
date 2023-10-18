@@ -1,13 +1,11 @@
 ![Banner Image](./banner.png "Banner Image")
 
 #### **🤖`Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps`🤖**
-<br/>
 #### **📝`Contractor: Helping startups engineer production-ready ML/AI systems.`📝**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
-<img align="left" alt="Python" width="25px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="Pytorch" width="25px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
+
 <br/>
 **About Me**
 🎯 **Mission**: Championing the full life cycle of ML engineering, from data gathering to deployment.
