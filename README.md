@@ -41,7 +41,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 <br />
 
 **Favorite Tools & Frameworks:**
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
 <div style="margin: 10px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30px" />
 </div>
