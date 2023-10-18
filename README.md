@@ -44,11 +44,14 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 
 
-| Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Python | PyTorch | AWS | GPT-4 | Pinecone | AutoGPT | GCP | Airflow | Prometheus |
-| Typescript | Tenserflow | Llama2 | ChromaDB | AutoGen | AWS | Linux | Git | Docker |
-| Javascript | Keras | Numpy | Palm2 | Fass | LangChain | Azure | GraphQL | VueJS |
+| Python      | TensorFlow | PyTorch | Keras  | Scikit-learn | Jupyter  | LeMUR  | GPT-4  | LaMDA    |
+|:-----------:|:----------:|:-------:|:------:|:------------:|:--------:|:------:|:------:|:--------:|
+| OpenCV      | SpaCy      | NLTK    | FastText| BERT         | GPT-3    | RoBERTa| T5     | PaLM 2   |
+| AWS         | GCP AI     | Azure ML| Docker  | Kubernetes   | Airflow  | Chainlit| LLMStack| FlowiseAI|
+| Kafka       | Prometheus | Grafana | ELK     | MongoDB      | Neo4j    | Redis  |         |          |
+| GitHub Copilot | Amazon’s CodeWhisperer | MDN’s AI Help | Anthropic’s Claude | Falcon | SeamlessM4T| OpenAI's API|         |          |
+| Chainlit (Low-code) | LLMStack (Low-code) | FlowiseAI (Low-code) |         |         |          |          |         |          |
+
 
 
 
