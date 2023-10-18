@@ -42,14 +42,21 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 **Favorite Tools & Frameworks:**
 
-<img align="left" alt="Python" width="60px" style="padding-right:10px; margin-bottom: 100px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="Pytorch" width="60px" style="padding-right:10px;padding-bottom: 10px " src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="TensorFlow" width="60px" style="padding-right:10px;padding-bottom: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Python" width="60px" style="padding-right:10px;padding-bottom: 10px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="Pytorch" width="60px" style="padding-right:10px;padding-bottom: 10px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
+<div style="margin: 10px;">
 
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg)
+![Pytorch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg)
 
-<div style="margin-top: 10px;">
+</div>
+
 
 | Languages | ML Frameworks | LLMs | VectorDBs | Agent Frameworks | Cloud | Cloud | NLTK | FastText |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
