@@ -40,8 +40,7 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 <br />
 
-**Tools & Frameworks:**
-
+**Favorites:**
 
 <img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
@@ -55,6 +54,8 @@ Having partnered with numerous startups and innovation centers across the globe,
 <img align="left" alt="Pytorch" width="60px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 
 <br />
+
+**Tools & Frameworks:**
 <br /><br />
 
 
