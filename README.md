@@ -8,8 +8,8 @@
 
 **About Me**
 
-I represent the top 1% of Upwork AI talent, with expertise in modern software development, deep learning neural networks, and modern AI development. 
-Having partnered with numerous startups and innovation centers across the globe, I possess the skills and insights to elevate your AI product or service strategy.
+I'm a world class software engineer with expertise in modern software development, deep learning neural networks, and modern AI development. 
+Having partnered with numerous startups and innovation centers across the globe, I possess the right technical skills and insights to elevate your AI product or service strategy.
 
 <br />
 
