@@ -17,11 +17,11 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 🚀 Deep Learning:
 
-🌟 Expertise in neural network architectures such as CNNs, RNNs, GANs, and Transformers.
-🌟 Proficiency in frameworks like TensorFlow, PyTorch, and Keras.
-🌟 Experience in training models on large datasets and fine-tuning pre-trained models.
-🌟 Knowledge of regularization techniques, optimization algorithms, and loss functions.
-🌟 Hands-on experience with GPU computing and parallel processing.
+🌟 Expertise in neural network architectures such as CNNs, RNNs, GANs, and Transformers.<br />
+🌟 Proficiency in frameworks like TensorFlow, PyTorch, and Keras.<br />
+🌟 Experience in training models on large datasets and fine-tuning pre-trained models.<br />
+🌟 Knowledge of regularization techniques, optimization algorithms, and loss functions.<br />
+🌟 Hands-on experience with GPU computing and parallel processing.<br />
 
 🚀 Computer Vision:
 
