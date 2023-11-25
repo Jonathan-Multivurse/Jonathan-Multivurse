@@ -1,6 +1,6 @@
 ![Banner Image](./banner.png "Banner Image")
 
-#### **🤖 Machine Learning Engineer • Vision, Language + Speech & Sound • MLOps 🤖**
+#### **🤖 AI Engineer : Deep Learning, Computer Vision, Gen AI, Speech | Music Synthesis 🤖**
 #### **📝 Contractor: Helping startups engineer production-ready ML/AI systems. 📝**
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
@@ -13,20 +13,43 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 <br />
 
-**My Expertise Includes:**
+**My Core Expertise Includes:**
 
+🚀 Deep Learning:
 
-⭐ Computer Vision: Developing and optimizing algorithms for object detection, image classification, and face recognition using frameworks like OpenCV and Dlib.
-  
-⭐ Large Language Models & Transformers: Building chatbots, autonomous AI agents, cognitive architecture design as well as fine-tuning custom models.
-  
-⭐ Audio Processing: Designing and implementing algorithms for speech recognition, sound classification, and audio generation.
-  
-⭐ Front-end Development: Creating responsive and dynamic web applications using technologies like React, Flutter, Typescript, Dart to ensure user-friendly and performant interfaces.
-  
-⭐ Backend Development: Designing robust and scalable server-side solutions using languages and frameworks such as Node.js, FastAPI and GraphQL with experience in both relational and NoSQL DBs.
-  
-⭐ Platform | DevOps: Implementing and managing CI/CD pipelines. Proficient in containerization with Docker, and Skilled in cloud platforms like AWS, GCP, and Azure.
+🌟 Expertise in neural network architectures such as CNNs, RNNs, GANs, and Transformers.
+🌟 Proficiency in frameworks like TensorFlow, PyTorch, and Keras.
+🌟 Experience in training models on large datasets and fine-tuning pre-trained models.
+🌟 Knowledge of regularization techniques, optimization algorithms, and loss functions.
+🌟 Hands-on experience with GPU computing and parallel processing.
+
+🚀 Computer Vision:
+
+🌟 Skilled in image and video processing techniques.
+🌟 Familiarity with object detection, segmentation, and tracking algorithms.
+🌟 Experience in implementing facial recognition and motion analysis systems.
+🌟 Proficiency in OpenCV, Dlib, and other relevant and popular Computer Vision Python tools.
+🌟 Ability to develop and optimize algorithms for real-time image processing.
+
+🚀 Generative AI:
+
+🌟 Large Language Models (LLMs): Developing and fine-tuning GPT-3 and similar models for diverse applications.
+🌟 Small Language Models (SLMs): Efficient model implementation for resource-constrained environments.
+🌟 Agents (Assistants & Copilots): Building context-aware virtual assistants and AI copilots.
+🌟 Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs): Expertise in creative and commercial applications.
+🌟 Reinforcement Learning (RL) and RL from Human Feedback (RLHF): Developing models for decision-making, enhanced by user interaction.
+
+🚀 Speech/Music Synthesis:
+
+🌟 Expert in speech recognition/generation, text-to-speech, speech-to-text technologies.
+🌟 Knowledgeable in AI-driven music generation, melody and rhythm synthesis.
+🌟 Proficient in audio signal processing, feature extraction, using tools like WaveNet, DeepVoice.
+
+🚀 Related Peripheral Skills
+
+🌟Front-end Development for UIs: React, React-Native, Flutter, Typescript, JavaScript, Dart.
+🌟 Backend Development for Servers: Node.js, FastAPI, GraphQL, SQL and NoSQL DBs.
+🌟 Platform|DevOps: CI/CD pipelines, Github, Docker, AWS, GCP, Azure and Nvidia Cloud
 
 <br />
 
