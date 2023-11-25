@@ -25,31 +25,31 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 🚀 Computer Vision:
 
-🌟 Skilled in image and video processing techniques.
-🌟 Familiarity with object detection, segmentation, and tracking algorithms.
-🌟 Experience in implementing facial recognition and motion analysis systems.
-🌟 Proficiency in OpenCV, Dlib, and other relevant and popular Computer Vision Python tools.
-🌟 Ability to develop and optimize algorithms for real-time image processing.
+🌟 Skilled in image and video processing techniques.<br />
+🌟 Familiarity with object detection, segmentation, and tracking algorithms.<br />
+🌟 Experience in implementing facial recognition and motion analysis systems.<br />
+🌟 Proficiency in OpenCV, Dlib, and other relevant and popular Computer Vision Python tools.<br />
+🌟 Ability to develop and optimize algorithms for real-time image processing.<br />
 
 🚀 Generative AI:
 
-🌟 Large Language Models (LLMs): Developing and fine-tuning GPT-3 and similar models for diverse applications.
-🌟 Small Language Models (SLMs): Efficient model implementation for resource-constrained environments.
-🌟 Agents (Assistants & Copilots): Building context-aware virtual assistants and AI copilots.
-🌟 Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs): Expertise in creative and commercial applications.
-🌟 Reinforcement Learning (RL) and RL from Human Feedback (RLHF): Developing models for decision-making, enhanced by user interaction.
+🌟 Large Language Models (LLMs): Developing and fine-tuning GPT-3 and similar models for diverse applications.<br />
+🌟 Small Language Models (SLMs): Efficient model implementation for resource-constrained environments.<br />
+🌟 Agents (Assistants & Copilots): Building context-aware virtual assistants and AI copilots.<br />
+🌟 Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs): Expertise in creative and commercial applications.<br />
+🌟 Reinforcement Learning (RL) and RL from Human Feedback (RLHF): Developing models for decision-making, enhanced by user interaction.<br />
 
 🚀 Speech/Music Synthesis:
 
-🌟 Expert in speech recognition/generation, text-to-speech, speech-to-text technologies.
-🌟 Knowledgeable in AI-driven music generation, melody and rhythm synthesis.
-🌟 Proficient in audio signal processing, feature extraction, using tools like WaveNet, DeepVoice.
+🌟 Expert in speech recognition/generation, text-to-speech, speech-to-text technologies.<br />
+🌟 Knowledgeable in AI-driven music generation, melody and rhythm synthesis.<br />
+🌟 Proficient in audio signal processing, feature extraction, using tools like WaveNet, DeepVoice.<br />
 
 🚀 Related Peripheral Skills
 
-🌟Front-end Development for UIs: React, React-Native, Flutter, Typescript, JavaScript, Dart.
-🌟 Backend Development for Servers: Node.js, FastAPI, GraphQL, SQL and NoSQL DBs.
-🌟 Platform|DevOps: CI/CD pipelines, Github, Docker, AWS, GCP, Azure and Nvidia Cloud
+🌟Front-end Development for UIs: React, React-Native, Flutter, Typescript, JavaScript, Dart.<br />
+🌟 Backend Development for Servers: Node.js, FastAPI, GraphQL, SQL and NoSQL DBs.<br />
+🌟 Platform|DevOps: CI/CD pipelines, Github, Docker, AWS, GCP, Azure and Nvidia Cloud<br />
 
 <br />
 
