@@ -53,11 +53,9 @@ Having partnered with numerous startups and innovation centers across the globe,
 
 <br />
 
-
 **Looking for an Expert Freelancer?**
 
-
-🟢 [**Upwork Freelancer Profile**](https://www.upwork.com/fl/yourusername](https://www.upwork.com/freelancers/mind4machine)) 
+🟢 [**Upwork Freelancer Profile**](https://www.upwork.com/freelancers/mind4machine)
 🟢 [**Upwork Agency Profile**](https://www.upwork.com/agencies/1388543012695896064/)
 
 <br />
